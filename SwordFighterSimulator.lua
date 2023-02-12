@@ -168,6 +168,13 @@ if game.PlaceId == 11040063484 then
         "Haunted Reaper",
         "Nightstalker",
         "Forsaken Hunter",
+        "Small Titan",
+        "Cart Titan",
+        "Beast Titan",
+        "Colossus Titan",
+        "Founding Titan",
+        "Warhammer Titan",
+        "Jaw Titan",
     }
     local DungeonShopItems = {
         ["2x Coin Boost"] = 1,
